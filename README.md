@@ -3,9 +3,6 @@
 
 # bruteforce_BTCpk
 brute force a private key based list adress database for Fast random search.
-
-
-
 Using this script for multiple CPU for fast processing .
 
 the python script search a private key for list on file btcadress.txt [ more than 100 adresses with balance ]
@@ -17,7 +14,6 @@ Usage :
 Run the bash script to start searching .
 
 Requirements :
-
 Python 3.x (i use 3.6.5)
 pip install ecdsa
 pip install base58
